@@ -12,10 +12,10 @@ Create a `.env` file in the backend root directory:
 
 PORT=3000  
 DB_HOST=localhost  
-DB_PORT=5432  
 DB_USER=postgres  
 DB_PASSWORD=your_db_password  
 DB_NAME=car_management
+SECRET_KEY=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
 
 ## Install Dependencies
 
